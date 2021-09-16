@@ -209,3 +209,14 @@ p {
     font-size: 20px;
 }
 
+@media screen and (max-width: 992px) {
+    .content {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .content {
+        width: 100%;
+    }
+}
