@@ -6,4 +6,9 @@ My goal on this revision is to make all the functions work properly and to meet 
 
 ## Table of Contents
 
-    1. 
+    1. Structuring index.html and style.css 
+    2. Accessible alt attributes
+    3. Fixing the title
+    4. Meeting all my requirements
+
+## 
