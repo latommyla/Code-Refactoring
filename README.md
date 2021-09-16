@@ -21,7 +21,8 @@ My goal on this revision is to make all the functions work properly and to meet 
 
 ## <div id="alt"> Accessible alt attributes </div>
 
-* 
+* Alt & Title attributes added to all images for easy accessiblity.
+* In todays world, alt and title attributes need to be added for visually impaired people.
 
 ## <div id="title"> Fixing the title structure </div>
 
@@ -29,7 +30,9 @@ My goal on this revision is to make all the functions work properly and to meet 
 
 ## <div id="requirements"> Meeting all my requirements </div>
 
-* 
+* All links in the navbar functionally works and goes to correct destination.
+* Classes in style.css has been shifter around to follow the semantic structure.
+* Commented on all changes does within style.css file
 
 ## <div id="learn"> What did I learn from all this? </div>
 
