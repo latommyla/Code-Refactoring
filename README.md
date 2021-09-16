@@ -5,10 +5,11 @@
 My goal on this revision is to make all the functions work properly and to meet all accessibility standards. Teaching       myself to learn more about structure and HTML elements. 
 
 ## Table of Contents
-
-    1. Structuring index.html and style.css 
-    2. Accessible alt attributes
-    3. Fixing the title
-    4. Meeting all my requirements
+<ul>
+    <li> Structuring index.html and style.css </li>
+    <li> Accessible alt attributes </li>
+    <li> Fixing the title </li>
+    <li> Meeting all my requirements </li>
+</ul>
 
 ## 
