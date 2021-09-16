@@ -46,7 +46,7 @@ My goal on this revision is to make all the functions work properly and to meet 
 
 ## <div id="links"> All Links </div>
 
-* [screenshot]("./assets/images/websitescreenshot.png)
+* [Screenshot](./assets/images/websitescreenshot.png)
 * [index.html file](https://github.com/latommyla/Horiseon-REAMP/blob/main/index.html)
 * [style.css file](https://github.com/latommyla/Horiseon-REAMP/blob/main/assets/css/style.css)
 * [GitHub Repo](https://github.com/latommyla/Horiseon-REAMP) 
