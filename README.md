@@ -15,7 +15,9 @@ My goal on this revision is to make all the functions work properly and to meet 
 
 ## <div id="structure"> Structuring index.html and style.css </div>
 
-* Title element has been changed to a more descriptive title (Horiseon Social Solution Services)
+* Making sure everything is in HTML semantic order.
+* Added section element to seperate the header, content, and benefits.
+* Footer h2 element switched to h4 to follow h1, h2, h3, h4 order.
 
 ## <div id="alt"> Accessible alt attributes </div>
 
