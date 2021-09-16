@@ -10,7 +10,7 @@ My goal on this revision is to make all the functions work properly and to meet 
     <li> Accessible alt attributes </li>
     <li> Fixing the title structure </li>
     <li> Meeting all my requirements </li>
-    <li> What did I learn from all this? </li>
+    <li><a href="#learn"> What did I learn from all this? </a></li>
 </ol>
 
 ## Structuring index.html and style.css
@@ -29,6 +29,6 @@ My goal on this revision is to make all the functions work properly and to meet 
 
 * 
 
-## What did I learn from all this? 
+<div class="learn">## What did I learn from all this? </div>
 
 * 
