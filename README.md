@@ -29,6 +29,6 @@ My goal on this revision is to make all the functions work properly and to meet 
 
 * 
 
-<div class="learn">## What did I learn from all this? </div>
+## <div class="learn"> What did I learn from all this? </div>
 
 * 
