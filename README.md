@@ -32,8 +32,14 @@ My goal on this revision is to make all the functions work properly and to meet 
 
 * All links in the navbar functionally works and goes to correct destination.
 * Classes in style.css has been shifter around to follow the semantic structure.
-* Commented on all changes does within style.css file
+* Commented on all changes does within style.css file.
+* Website loads and function with no errors.
+* GitHub has been updated with all files and edits.
 
 ## <div id="learn"> What did I learn from all this? </div>
 
-* 
+* How to properly put HTML and CSS elements in semantic order.
+* Adding to GitHub repository accurately and properly.
+* Fixing all errors by studying the code. 
+* Creating a README.md file ang figuring out the structure/format.
+
