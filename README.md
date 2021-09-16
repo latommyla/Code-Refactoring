@@ -5,13 +5,13 @@
 My goal on this revision is to make all the functions work properly and to meet all accessibility standards. Teaching       myself to learn more about structure and HTML elements. 
 
 ## Table of Contents
-<ul>
+<ol>
     <li> Structuring index.html and style.css </li>
     <li> Accessible alt attributes </li>
     <li> Fixing the title structure </li>
     <li> Meeting all my requirements </li>
     <li> What did I learn from all this? </li>
-</ul>
+</ol>
 
 ## Structuring index.html and style.css
 
@@ -32,4 +32,3 @@ My goal on this revision is to make all the functions work properly and to meet 
 ## What did I learn from all this? 
 
 * 
-
