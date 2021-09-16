@@ -1,10 +1,10 @@
 <h1 align="center"> Horiseon REAMP </h1>
 
-### Revising at its finest
+## Revising at its finest
 
 My goal on this revision is to make all the functions work properly and to meet all accessibility standards. Teaching       myself to learn more about structure and HTML elements. It was a journey and a very fun experience!
 
-### Table of Contents
+## Table of Contents
 <ol>
     <li><a href="#structure"> Structuring index.html and style.css </a></li>
     <li><a href="#alt"> Accessible alt attributes </a></li>
