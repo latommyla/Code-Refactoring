@@ -6,26 +6,26 @@ My goal on this revision is to make all the functions work properly and to meet 
 
 ## Table of Contents
 <ol>
-    <li> Structuring index.html and style.css </li>
-    <li> Accessible alt attributes </li>
-    <li> Fixing the title structure </li>
-    <li> Meeting all my requirements </li>
+    <li><a href="structure"> Structuring index.html and style.css </a></li>
+    <li><a href="alt"> Accessible alt attributes </a></li>
+    <li><a href="#title"> Fixing the title structure </a></li>
+    <li><a href="#requirements"> Meeting all my requirements </a></li>
     <li><a href="#learn"> What did I learn from all this? </a></li>
 </ol>
 
-## Structuring index.html and style.css
+## <div id="structure"> Structuring index.html and style.css </div>
 
 * Title element has been changed to a more descriptive title (Horiseon Social Solution Services)
 
-## Accessible alt attributes
+## <div id="alt"> Accessible alt attributes </div>
 
 * 
 
-## Fixing the title structure
+## <div id="title"> Fixing the title structure </div>
 
 * Title element has been changed to a more descriptive title (Horiseon Social Solution Services)
 
-## Meeting all my requirements
+## <div id="requirements"> Meeting all my requirements </div>
 
 * 
 
