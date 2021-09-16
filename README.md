@@ -45,4 +45,4 @@ My goal on this revision is to make all the functions work properly and to meet 
 
 ## Website Link 
 
-* <a href="latommyla.github.io/Horiseon-REAMP/> Click here to access the website </a>
+* [Link to Website](https://latommyla.github.io/Horiseon-REAMP/)
