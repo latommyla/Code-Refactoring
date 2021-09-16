@@ -6,8 +6,8 @@ My goal on this revision is to make all the functions work properly and to meet 
 
 ## Table of Contents
 <ol>
-    <li><a href="structure"> Structuring index.html and style.css </a></li>
-    <li><a href="alt"> Accessible alt attributes </a></li>
+    <li><a href="#structure"> Structuring index.html and style.css </a></li>
+    <li><a href="#alt"> Accessible alt attributes </a></li>
     <li><a href="#title"> Fixing the title structure </a></li>
     <li><a href="#requirements"> Meeting all my requirements </a></li>
     <li><a href="#learn"> What did I learn from all this? </a></li>
