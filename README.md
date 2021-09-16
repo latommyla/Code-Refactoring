@@ -11,6 +11,7 @@ My goal on this revision is to make all the functions work properly and to meet 
     <li><a href="#title"> Fixing the title structure </a></li>
     <li><a href="#requirements"> Meeting all my requirements </a></li>
     <li><a href="#learn"> What did I learn from all this? </a></li>
+    <li><a href="#links"> Click here for all GitHub links </a></li>
 </ol>
 
 ## <div id="structure"> Structuring index.html and style.css </div>
@@ -43,6 +44,9 @@ My goal on this revision is to make all the functions work properly and to meet 
 * Fixing all errors by studying the code. 
 * Creating a README.md file ang figuring out the structure/format.
 
-## Website Link 
+## <div id="links"> All Links </div>
 
-* [Link to Website](https://latommyla.github.io/Horiseon-REAMP/)
+* [index.html file](https://github.com/latommyla/Horiseon-REAMP/blob/main/index.html)
+* [style.css file](https://github.com/latommyla/Horiseon-REAMP/blob/main/assets/css/style.css)
+* [GitHub Repo](https://github.com/latommyla/Horiseon-REAMP) 
+* [Link to Website](https://latommyla.github.io/Horiseon-REAMP)
