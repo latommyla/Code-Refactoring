@@ -43,3 +43,6 @@ My goal on this revision is to make all the functions work properly and to meet 
 * Fixing all errors by studying the code. 
 * Creating a README.md file ang figuring out the structure/format.
 
+## Website Link 
+
+* <a href="latommyla.github.io/Horiseon-REAMP/> Click here to access the website </a>
